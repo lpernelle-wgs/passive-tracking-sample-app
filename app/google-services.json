@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "648190507780",
+    "firebase_url": "https://androidsimpleexample.firebaseio.com",
+    "project_id": "androidsimpleexample",
+    "storage_bucket": "androidsimpleexample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648190507780:android:806ebcae4e16aaa3072e51",
+        "android_client_info": {
+          "package_name": "com.webgeoservices.geosearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648190507780-fus51hpvuf32gamke3tgs2mn5u4a3dpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXwQ-qZ6fwhrommfP-iX2TpCStBPkWDBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648190507780-fus51hpvuf32gamke3tgs2mn5u4a3dpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648190507780:android:3aa66a0aa4898f0c072e51",
+        "android_client_info": {
+          "package_name": "com.webgeoservices.locationnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648190507780-fus51hpvuf32gamke3tgs2mn5u4a3dpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXwQ-qZ6fwhrommfP-iX2TpCStBPkWDBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648190507780-fus51hpvuf32gamke3tgs2mn5u4a3dpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648190507780:android:9aaa941594e3f932072e51",
+        "android_client_info": {
+          "package_name": "com.webgeoservices.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648190507780-fus51hpvuf32gamke3tgs2mn5u4a3dpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXwQ-qZ6fwhrommfP-iX2TpCStBPkWDBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648190507780-fus51hpvuf32gamke3tgs2mn5u4a3dpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648190507780:android:0f7fc8c956047018",
+        "android_client_info": {
+          "package_name": "com.woosmap.wooziesexemple"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648190507780-vcnr7d2vfnit2vbahiph45rntkp5bl48.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.woosmap.wooziesexemple",
+            "certificate_hash": "56b10b49b28e7dac4e2976ecd2f71b5218872f45"
+          }
+        },
+        {
+          "client_id": "648190507780-fus51hpvuf32gamke3tgs2mn5u4a3dpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXwQ-qZ6fwhrommfP-iX2TpCStBPkWDBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648190507780-fus51hpvuf32gamke3tgs2mn5u4a3dpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
